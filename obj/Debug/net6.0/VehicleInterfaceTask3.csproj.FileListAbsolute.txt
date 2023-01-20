@@ -1,0 +1,15 @@
+D:\InductionTasks\VehicleInterfaceTask3\bin\Debug\net6.0\VehicleInterfaceTask3.exe
+D:\InductionTasks\VehicleInterfaceTask3\bin\Debug\net6.0\VehicleInterfaceTask3.deps.json
+D:\InductionTasks\VehicleInterfaceTask3\bin\Debug\net6.0\VehicleInterfaceTask3.runtimeconfig.json
+D:\InductionTasks\VehicleInterfaceTask3\bin\Debug\net6.0\VehicleInterfaceTask3.dll
+D:\InductionTasks\VehicleInterfaceTask3\bin\Debug\net6.0\VehicleInterfaceTask3.pdb
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.csproj.AssemblyReference.cache
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.GeneratedMSBuildEditorConfig.editorconfig
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.AssemblyInfoInputs.cache
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.AssemblyInfo.cs
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.csproj.CoreCompileInputs.cache
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.dll
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\refint\VehicleInterfaceTask3.dll
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.pdb
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\VehicleInterfaceTask3.genruntimeconfig.cache
+D:\InductionTasks\VehicleInterfaceTask3\obj\Debug\net6.0\ref\VehicleInterfaceTask3.dll
